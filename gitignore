@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Replit-specific
+uv.lock
+.replit
+
+# Editor-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Git internals (already managed by GitHub)
+.git/
